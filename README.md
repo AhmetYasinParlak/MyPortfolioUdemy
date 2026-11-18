@@ -3,7 +3,6 @@
 Bu proje, Murat Yücedağ'ın "ASP.NET Core ile Portfolyo Uygulamanızı Geliştirin" adlı Udemy kursu kapsamında modern web geliştirme prensipleriyle geliştirilmiş; dinamik bileşenlere (View Components) ve yönetim paneline sahip kapsamlı bir kişisel portfolyo web sitesi projesidir.
 
 <img src="screenshots/Screenshot_1.png" alt="Ekran Görüntüsü 1" width="100%"/>
----
 
 ## 🛠️ Kullanılan Teknolojiler ve Araçlar
 
@@ -30,11 +29,10 @@ C# · .NET · ASP.NET Core MVC · Entity Framework Core · SQL Server · LINQ ·
 ```text
 MyPortfolioUdemy/
 │
-├── Controllers/         # MVC Controller sınıfları
-├── Models/              # Veritabanı modelleri ve View Model sınıfları
-├── DAL/                 # Veritabanı bağlamı (Context) ve veri erişim katmanı
+├── Controllers/         # MVC Controller sınıfları (Vitrin ve Admin)
+├── DAL/                 # Veri Erişim Katmanı (Data Access Layer)
+│   ├── Context/         # Entity Framework Core Veritabanı Bağlamı (MyPortfolioContext)
+│   └── Entities/        # Veritabanı tabloları (About, Contact, Experience, Portfolio vb.)
 ├── ViewComponents/      # Modüler parça görünüm sınıfları (About, Works, Contact vb.)
-├── Views/               # Razor Görünüm dosyaları (Layout ve Component görünümleri)
-└── Program.cs           # Servis ve uygulama ayarları
-
+└── Views/               # Razor Görünüm dosyaları (Layout, Default ve Admin panelleri)
 
