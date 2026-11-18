@@ -59,9 +59,10 @@ MyPortfolioUdemy/
 
 <p align="center">
   <a href="https://github.com/AhmetYasinParlak">
-    <img src="https://img.shields.io/badge/GitHub-AhmetYasinParlak-333333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmetyasinparlak/">
-    <img src="https://img.shields.io/badge/LinkedIn-.NET%20Full%20Stack%20Developer-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
