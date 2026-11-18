@@ -1,6 +1,6 @@
 # 🚀 ASP.NET Core MVC Dinamik Portfolyo Projesi
 
-Bu proje, Murat Yücedağ'ın "ASP.NET Core ile Portfolyo Uygulamanızı Geliştirin" adlı Udemy kursu kapsamında modern web geliştirme prensipleriyle geliştirilmiş; dinamik bileşenlere (View Components) ve yönetim paneline sahip kapsamlı bir kişisel portfolyo web sitesi projesidir.
+Bu proje, Murat Yücedağ'ın "ASP.NET Core ile Portfolyo Uygulamanızı Geliştirin" adlı Udemy kursu kapsamında modern web geliştirme prensipleriyle geliştirilmiş; dinamik bileşenlere ve yönetim paneline sahip kapsamlı bir kişisel portfolyo web sitesi projesidir.
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-purple)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core-MVC-blue)
