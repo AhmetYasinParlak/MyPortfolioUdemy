@@ -8,6 +8,8 @@ Bu proje, Murat Yücedağ'ın "ASP.NET Core ile Portfolyo Uygulamanızı Gelişt
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 
 <img src="screenshots/Screenshot_1.png" alt="Ekran Görüntüsü 1" width="100%"/>
+<br/>
+<img src="screenshots/Screenshot_4.png" alt="Ekran Görüntüsü 4" width="100%"/>
 
 ## 🎯 Proje Hakkında
 
