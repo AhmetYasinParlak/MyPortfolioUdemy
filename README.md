@@ -8,6 +8,7 @@ Bu proje, Murat Yücedağ'ın "ASP.NET Core ile Portfolyo Uygulamanızı Gelişt
 ![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red)
 
 <img src="screenshots/Screenshot_1.png" alt="Ekran Görüntüsü 1" width="100%"/>
+
 ## 🎯 Proje Hakkında
 
 Proje, kişisel portfolio içeriklerini ziyaretçilere sunan ve gelen mesajların yönetilebildiği bir yönetim alanı sağlar. Veriler Entity Framework Core üzerinden SQL Server'da saklanır.
@@ -20,7 +21,7 @@ Proje, kişisel portfolio içeriklerini ziyaretçilere sunan ve gelen mesajları
 - Yapılacaklar listesi oluşturma, güncelleme, silme ve tamamlandı durumunu değiştirme
 - Yetenek ve mesaj sayılarını gösteren istatistik ekranı
 - Entity Framework Core migration'larıyla veritabanı şeması yönetimi
-- 
+
 ## 🛠️ Kullanılan Teknolojiler ve Araçlar
 
 Proje geliştirilirken aşağıdaki modern teknoloji ve altyapılar kullanılmıştır:
